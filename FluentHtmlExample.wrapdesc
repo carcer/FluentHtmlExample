@@ -1,0 +1,5 @@
+﻿name: FluentHtmlExample
+depends: openwrap anchored content
+depends: mvccontrib.mvc3-ci
+depends: mvccontrib.mvc3.fluenthtml-ci
+depends: castle.windsor
